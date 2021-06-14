@@ -17,7 +17,7 @@ Our final milestone was programming a path for the quadcopter to follow based on
 # Third Milestone
 Our third milestone was tuning the parameters that we had found through simulation in MATLAB by flying the quadcopter. We first tested the commands our code gave to the quadcopter without providing any thrust so that we could see if the roll, pitch, and yaw values were reasonable. Once we adjusted our parameters such that those values were reasonable, we applied thrust to the quadcopter and tested how accurately the quadcopter could follow some basic paths. After adjusting a parameter to have the quadcopter follow the path more accurately, it flew directly at the Kinect! Significantly decreasing that parameter later removed that effect and improved the quadcopter's accuracy.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://github.com/bugbard/BSE_Template_Portfolio/blob/gh-pages/QuadcopterFlightAccuracy.PNG)
 
 # Second Milestone
 Our second milestone was finding the initial flight parameters that best fit a set of given criteria for optimal flight behavior. We thoroughly tested and recorded the simulated behavior for each parameter and selected the values that adhered most to the desired behavior. This was very time-consuming, but it made for pretty effective parameters overall!
@@ -27,3 +27,4 @@ Our second milestone was finding the initial flight parameters that best fit a s
 # First Milestone
 Our first milestone was deriving the equations of motions needed to control the quadcopter! This determined the equations we would need to code into MATLAB so that we could find the correct control parameters and so the quadcopter could fly stably.
 
+![First Milestone](https://github.com/bugbard/BSE_Template_Portfolio/blob/gh-pages/QuadcopterEOM.PNG)
