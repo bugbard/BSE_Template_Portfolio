@@ -29,3 +29,5 @@ Our second milestone was finding the initial flight parameters that best fit a s
 Our first milestone was deriving the equations of motions needed to control the quadcopter! This determined the equations we would need to code into MATLAB so that we could find the correct control parameters and so the quadcopter could fly stably.
 
 ![First Milestone](https://github.com/bugbard/BSE_Template_Portfolio/raw/gh-pages/QuadcopterEOM.PNG)
+
+![Homework](https://github.com/bugbard/LindaElliotts_BSE_Portfolio/raw/gh-pages/2020-10-03.png)
