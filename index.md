@@ -31,3 +31,7 @@ Our first milestone was deriving the equations of motions needed to control the 
 ![First Milestone](https://github.com/bugbard/BSE_Template_Portfolio/raw/gh-pages/QuadcopterEOM.PNG)
 
 ![Homework](https://github.com/bugbard/LindaElliotts_BSE_Portfolio/raw/gh-pages/2020-10-03.png)
+
+```
+my code
+```
