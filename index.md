@@ -32,4 +32,6 @@ Our first milestone was deriving the equations of motions needed to control the 
 
 ![Homework](https://github.com/bugbard/LindaElliotts_BSE_Portfolio/raw/gh-pages/2020-10-21%20(2).png)
 
+![Homework_2](https://github.com/bugbard/LindaElliotts_BSE_Portfolio/raw/gh-pages/2020-10-21%20(3).png)
+
 
